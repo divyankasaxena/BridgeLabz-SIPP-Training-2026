@@ -1,0 +1,43 @@
+import java.util.HashSet;
+
+public class EventEntryVerificationSystem {
+
+    HashSet<String> participants = new HashSet<>();
+
+    void registerParticipant(String email) {
+        if (participants.add(email)) {
+            System.out.println(email + " Registered Successfully.");
+        } else {
+            System.out.println("Duplicate Registration Not Allowed.");
+        }
+    }
+
+    // Display Participants
+    void displayParticipants() {
+        System.out.println("\nRegistered Participants:");
+
+        if (participants.isEmpty()) {
+            System.out.println("No Participants Registered.");
+        } else {
+            for (String email : participants) {
+                System.out.println(email);
+            }
+        }
+
+        System.out.println("Total Attendees = " + participants.size());
+    }
+
+    public static void main(String[] args) {
+
+        EventEntryVerificationSystem e = new EventEntryVerificationSystem();
+
+        e.registerParticipant("rahul@gmail.com");
+        e.registerParticipant("aman@gmail.com");
+        e.registerParticipant("priya@gmail.com");
+
+        // Duplicate Registration
+        e.registerParticipant("aman@gmail.com");
+
+        e.displayParticipants();
+    }
+}
