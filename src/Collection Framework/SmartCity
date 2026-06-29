@@ -1,0 +1,58 @@
+import java.util.*;
+
+public class SmartCityTrafficMonitoringSystem {
+
+    HashMap<String, Integer> traffic = new HashMap<>();
+
+    // Add or Update Vehicle Count
+    void addTraffic(String road, int count) {
+        traffic.put(road, count);
+        System.out.println("Traffic Updated for " + road);
+    }
+
+    // Display Roads in Sorted Order
+    void displayTraffic() {
+
+        TreeMap<String, Integer> sorted = new TreeMap<>(traffic);
+
+        System.out.println("\nTraffic Report:");
+
+        for (String road : sorted.keySet()) {
+            System.out.println(road + " : " + sorted.get(road) + " vehicles");
+        }
+
+        System.out.println("Total Roads = " + sorted.size());
+    }
+
+    // Find Busiest Road
+    void busiestRoad() {
+
+        String roadName = "";
+        int max = 0;
+
+        for (String road : traffic.keySet()) {
+
+            if (traffic.get(road) > max) {
+                max = traffic.get(road);
+                roadName = road;
+            }
+        }
+
+        System.out.println("\nBusiest Road: " + roadName);
+        System.out.println("Vehicle Count: " + max);
+    }
+
+    public static void main(String[] args) {
+
+        SmartCityTrafficMonitoringSystem s = new SmartCityTrafficMonitoringSystem();
+
+        s.addTraffic("MG Road", 250);
+        s.addTraffic("Ring Road", 450);
+        s.addTraffic("Station Road", 180);
+        s.addTraffic("Airport Road", 320);
+
+        s.displayTraffic();
+
+        s.busiestRoad();
+    }
+}
