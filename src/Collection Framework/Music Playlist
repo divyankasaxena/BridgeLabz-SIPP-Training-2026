@@ -1,0 +1,63 @@
+import java.util.LinkedList;
+
+public class MusicPlaylistRecommendationEngine {
+
+    LinkedList<String> playlist = new LinkedList<>();
+
+    // Play Song
+    void playSong(String song) {
+
+        playlist.addFirst(song);
+
+        if (playlist.size() > 10) {
+            playlist.removeLast();
+        }
+
+        System.out.println(song + " added to Recently Played.");
+    }
+
+    // Search Song
+    void searchSong(String song) {
+
+        if (playlist.contains(song)) {
+            System.out.println(song + " is in Recently Played.");
+        } else {
+            System.out.println(song + " is not in Recently Played.");
+        }
+    }
+
+    // Display Playlist
+    void displayPlaylist() {
+
+        System.out.println("\nRecently Played Songs:");
+
+        if (playlist.isEmpty()) {
+            System.out.println("No Songs Played.");
+        } else {
+            for (String song : playlist) {
+                System.out.println(song);
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+
+        MusicPlaylistRecommendationEngine m = new MusicPlaylistRecommendationEngine();
+
+        m.playSong("Shape of You");
+        m.playSong("Believer");
+        m.playSong("Perfect");
+        m.playSong("Faded");
+        m.playSong("Senorita");
+        m.playSong("Levitating");
+        m.playSong("Closer");
+        m.playSong("Hymn for the Weekend");
+        m.playSong("Blinding Lights");
+        m.playSong("Memories");
+        m.playSong("Stay"); // 11th song
+
+        m.searchSong("Believer");
+
+        m.displayPlaylist();
+    }
+}
