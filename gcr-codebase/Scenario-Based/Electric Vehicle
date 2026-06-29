@@ -1,0 +1,47 @@
+class ChargingStation {
+
+    // Static variables
+    static int totalStations = 0;
+    static double electricityRate = 8.5; // ₹ per unit
+
+    // Instance variables
+    private String stationId;
+    private double unitsConsumed;
+
+    // Constructor
+    public ChargingStation(String stationId, double unitsConsumed) {
+        this.stationId = stationId; // using this keyword
+        this.unitsConsumed = unitsConsumed;
+        totalStations++;
+    }
+
+    // Calculate bill
+    public double calculateBill() {
+        return unitsConsumed * electricityRate;
+    }
+
+    // Display station details
+    public void displayStationDetails() {
+        System.out.println("Station ID       : " + stationId);
+        System.out.println("Units Consumed   : " + unitsConsumed);
+        System.out.println("Electricity Rate : ₹" + electricityRate + " per unit");
+        System.out.println("Bill Amount      : ₹" + calculateBill());
+        System.out.println();
+    }
+}
+
+public class EVChargingNetwork {
+    public static void main(String[] args) {
+
+        ChargingStation s1 = new ChargingStation("CS101", 120);
+        ChargingStation s2 = new ChargingStation("CS102", 85);
+        ChargingStation s3 = new ChargingStation("CS103", 150);
+
+        s1.displayStationDetails();
+        s2.displayStationDetails();
+        s3.displayStationDetails();
+
+        System.out.println("Total Charging Stations: "
+                           + ChargingStation.totalStations);
+    }
+}

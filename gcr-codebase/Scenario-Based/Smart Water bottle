@@ -1,0 +1,32 @@
+class WaterBottle {
+
+    // Instance variables
+    private String ownerName;
+    private int dailyTarget; // in ml
+
+    // Constructor
+    public WaterBottle(String ownerName, int dailyTarget) {
+        this.ownerName = ownerName;
+        this.dailyTarget = dailyTarget;
+    }
+
+    // Method to display bottle information
+    public void displayBottleInfo() {
+        System.out.println("Owner Name  : " + ownerName);
+        System.out.println("Daily Target: " + dailyTarget + " ml");
+        System.out.println();
+    }
+}
+
+public class SmartWaterBottleTracker {
+    public static void main(String[] args) {
+
+        // Creating two bottle objects
+        WaterBottle bottle1 = new WaterBottle("Divyanka", 2500);
+        WaterBottle bottle2 = new WaterBottle("Rahul", 3000);
+
+        // Displaying information
+        bottle1.displayBottleInfo();
+        bottle2.displayBottleInfo();
+    }
+}

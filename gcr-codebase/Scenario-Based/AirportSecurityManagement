@@ -1,0 +1,66 @@
+interface LuggageScanner {
+
+    boolean scanLuggage(double weight);
+
+    default void displaySecurityGuidelines() {
+        System.out.println("Luggage should not exceed 20 kg.");
+    }
+}
+
+interface PassportVerifier {
+
+    boolean verifyPassport(String passportNo);
+
+    default void displaySecurityGuidelines() {
+        System.out.println("Passenger must carry a valid passport.");
+    }
+
+    static boolean isPassportNumberValid(String passportNo) {
+        return passportNo.length() == 8;
+    }
+}
+
+class AirportSecuritySystem implements LuggageScanner, PassportVerifier {
+
+    public boolean scanLuggage(double weight) {
+        return weight <= 20;
+    }
+
+    public boolean verifyPassport(String passportNo) {
+        return PassportVerifier.isPassportNumberValid(passportNo);
+    }
+
+    public void displaySecurityGuidelines() {
+        LuggageScanner.super.displaySecurityGuidelines();
+        PassportVerifier.super.displaySecurityGuidelines();
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        String[] names = {"Rahul", "Priya", "Aman", "Neha"};
+        String[] passportNos = {"A1234567", "P1234", "B9876543", "C7654321"};
+        double[] luggageWeights = {18.5, 25.0, 15.0, 22.5};
+
+        AirportSecuritySystem security = new AirportSecuritySystem();
+
+        security.displaySecurityGuidelines();
+
+        System.out.println();
+
+        for (int i = 0; i < names.length; i++) {
+
+            System.out.println("Passenger: " + names[i]);
+
+            if (security.verifyPassport(passportNos[i]) &&
+                security.scanLuggage(luggageWeights[i])) {
+                System.out.println("Boarding Allowed");
+            } else {
+                System.out.println("Boarding Denied");
+            }
+
+            System.out.println();
+        }
+    }
+}

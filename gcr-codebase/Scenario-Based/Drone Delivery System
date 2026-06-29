@@ -1,0 +1,60 @@
+class Drone {
+
+    // Instance variables
+    private String droneId;
+    private int batteryPercentage;
+
+    // Static variable
+    static String companyName = "SkyLogistics";
+
+    // Constructor
+    public Drone(String droneId, int batteryPercentage) {
+        this.droneId = droneId;                 // using this keyword
+        this.batteryPercentage = batteryPercentage;
+    }
+
+    // Method to start delivery
+    public void startDelivery() {
+        if (batteryPercentage >= 20) {
+            System.out.println("Drone " + droneId + " started delivery.");
+        } else {
+            System.out.println("Drone " + droneId +
+                               " cannot start delivery. Battery too low.");
+        }
+    }
+
+    // Method to display status
+    public void displayStatus() {
+        System.out.println("Company Name      : " + companyName);
+        System.out.println("Drone ID          : " + droneId);
+        System.out.println("Battery Percentage: " + batteryPercentage + "%");
+        System.out.println();
+    }
+}
+
+public class DroneDeliverySystem {
+    public static void main(String[] args) {
+
+        // Creating multiple drones
+        Drone d1 = new Drone("DR101", 85);
+        Drone d2 = new Drone("DR102", 60);
+        Drone d3 = new Drone("DR103", 15);
+
+        // Starting deliveries
+        d1.startDelivery();
+        d2.startDelivery();
+        d3.startDelivery();
+
+        System.out.println();
+
+        // Displaying status
+        d1.displayStatus();
+        d2.displayStatus();
+        d3.displayStatus();
+
+        // Verifying shared company name
+        System.out.println("Company Name from d1: " + Drone.companyName);
+        System.out.println("Company Name from d2: " + Drone.companyName);
+        System.out.println("Company Name from d3: " + Drone.companyName);
+    }
+}
