@@ -1,0 +1,61 @@
+import java.util.ArrayList;
+
+public class SmartParkingSlotManager {
+
+    ArrayList<String> parking = new ArrayList<>();
+
+    // Add Vehicle
+    void addVehicle(String vehicleNo) {
+        parking.add(vehicleNo);
+        System.out.println(vehicleNo + " Entered Parking.");
+    }
+
+    // Remove Vehicle
+    void removeVehicle(String vehicleNo) {
+        if (parking.contains(vehicleNo)) {
+            parking.remove(vehicleNo);
+            System.out.println(vehicleNo + " Exited Parking.");
+        } else {
+            System.out.println("Vehicle Not Found.");
+        }
+    }
+
+    // Search Vehicle
+    void searchVehicle(String vehicleNo) {
+        if (parking.contains(vehicleNo)) {
+            System.out.println("Vehicle is Parked.");
+        } else {
+            System.out.println("Vehicle is Not Parked.");
+        }
+    }
+
+    // Display Vehicles
+    void displayVehicles() {
+        System.out.println("\nVehicles in Parking:");
+
+        if (parking.isEmpty()) {
+            System.out.println("Parking is Empty.");
+        } else {
+            for (String vehicle : parking) {
+                System.out.println(vehicle);
+            }
+        }
+
+        System.out.println("Occupied Parking Slots = " + parking.size());
+    }
+
+    public static void main(String[] args) {
+
+        SmartParkingSlotManager p = new SmartParkingSlotManager();
+
+        p.addVehicle("UP32AB1234");
+        p.addVehicle("DL10CD5678");
+        p.addVehicle("HR26EF9012");
+
+        p.searchVehicle("DL10CD5678");
+
+        p.removeVehicle("UP32AB1234");
+
+        p.displayVehicles();
+    }
+}
