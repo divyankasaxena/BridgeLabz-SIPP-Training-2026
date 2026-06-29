@@ -1,0 +1,58 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class SmartClassroomAttendanceTracker {
+
+    HashMap<String, ArrayList<String>> attendance = new HashMap<>();
+
+    // Mark Attendance
+    void markAttendance(String subject, String student) {
+
+        if (!attendance.containsKey(subject)) {
+            attendance.put(subject, new ArrayList<String>());
+        }
+
+        ArrayList<String> students = attendance.get(subject);
+
+        if (students.contains(student)) {
+            System.out.println(student + " is already marked present in " + subject);
+        } else {
+            students.add(student);
+            System.out.println(student + " marked present in " + subject);
+        }
+    }
+
+    // Display Attendance
+    void displayAttendance() {
+
+        System.out.println("\nAttendance Record:");
+
+        for (String subject : attendance.keySet()) {
+
+            System.out.println("\nSubject: " + subject);
+
+            ArrayList<String> students = attendance.get(subject);
+
+            for (String student : students) {
+                System.out.println(student);
+            }
+
+            System.out.println("Total Students = " + students.size());
+        }
+    }
+
+    public static void main(String[] args) {
+
+        SmartClassroomAttendanceTracker s = new SmartClassroomAttendanceTracker();
+
+        s.markAttendance("Java", "Rahul");
+        s.markAttendance("Java", "Aman");
+        s.markAttendance("Python", "Priya");
+        s.markAttendance("Python", "Rahul");
+
+        // Duplicate Attendance
+        s.markAttendance("Java", "Rahul");
+
+        s.displayAttendance();
+    }
+}
