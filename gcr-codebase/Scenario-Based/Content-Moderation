@@ -1,0 +1,69 @@
+interface TextModeration {
+
+    boolean checkOffensive(String post);
+
+    default void displayModerationPolicy() {
+        System.out.println("Policy: Offensive content is not allowed.");
+    }
+
+    static boolean containsRestrictedWords(String post) {
+        String text = post.toLowerCase();
+        return text.contains("bad") || text.contains("hate");
+    }
+}
+
+interface SpamDetection {
+
+    boolean checkSpam(String post);
+
+    default void displayModerationPolicy() {
+        System.out.println("Policy: Spam content is not allowed.");
+    }
+}
+
+class ContentModerator implements TextModeration, SpamDetection {
+
+    public boolean checkOffensive(String post) {
+        return TextModeration.containsRestrictedWords(post);
+    }
+
+    public boolean checkSpam(String post) {
+        String text = post.toLowerCase();
+        return text.contains("buy now") || text.contains("click here");
+    }
+
+    public void displayModerationPolicy() {
+        TextModeration.super.displayModerationPolicy();
+        SpamDetection.super.displayModerationPolicy();
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+
+        String[] posts = {
+                "I love Java programming",
+                "Buy now and get 50% discount",
+                "I hate this product",
+                "Click here to win cash",
+                "Have a nice day"
+        };
+
+        ContentModerator moderator = new ContentModerator();
+
+        moderator.displayModerationPolicy();
+
+        System.out.println();
+
+        for (String post : posts) {
+
+            if (moderator.checkSpam(post)) {
+                System.out.println("\"" + post + "\" -> Spam Post");
+            } else if (moderator.checkOffensive(post)) {
+                System.out.println("\"" + post + "\" -> Offensive Post");
+            } else {
+                System.out.println("\"" + post + "\" -> Valid Post");
+            }
+        }
+    }
+}
