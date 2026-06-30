@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0165-compare-version-numbers) |
+| [0290-word-pattern](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0290-word-pattern) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
