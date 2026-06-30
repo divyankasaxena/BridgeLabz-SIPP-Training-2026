@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0058-length-of-last-word) |
 | [0165-compare-version-numbers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0165-compare-version-numbers) |
 ## Array
 |  |
