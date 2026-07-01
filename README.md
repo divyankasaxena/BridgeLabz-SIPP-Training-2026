@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
+| [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
 ## Queue
 |  |
 | ------- |
