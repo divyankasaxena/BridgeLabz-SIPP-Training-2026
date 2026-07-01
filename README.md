@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0709-to-lower-case) |
 ## Array
 |  |
 | ------- |
