@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Greedy
 |  |
 | ------- |
