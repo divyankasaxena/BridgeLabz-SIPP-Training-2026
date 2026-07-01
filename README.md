@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0165-compare-version-numbers) |
+| [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
 ## Array
 |  |
 | ------- |
