@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class LowerBoundExample {
+
+    public static void addNumbers(List<? super Integer> list) {
+        list.add(10);
+        list.add(20);
+        list.add(30);
+
+        System.out.println(list);
+    }
+
+    public static void main(String[] args) {
+
+        List<Number> numberList = new ArrayList<>();
+        List<Object> objectList = new ArrayList<>();
+
+        addNumbers(numberList);
+        addNumbers(objectList);
+
+    }
+}
