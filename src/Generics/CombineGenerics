@@ -1,0 +1,22 @@
+import java.util.*;
+import java.util.stream.*;
+
+public class StreamExample {
+
+    public static <T> void printElements(List<T> list) {
+        list.stream()
+            .forEach(System.out::println);
+    }
+
+    public static void main(String[] args) {
+
+        List<String> languages = Arrays.asList("Java", "Python", "C++");
+
+        List<Integer> numbers = Arrays.asList(10, 20, 30);
+
+        printElements(languages);
+        System.out.println();
+
+        printElements(numbers);
+    }
+}
