@@ -1,0 +1,26 @@
+interface Printer<T> {
+    void print(T data);
+}
+
+class StringPrinter implements Printer<String> {
+    public void print(String data) {
+        System.out.println("String: " + data);
+    }
+}
+
+class IntegerPrinter implements Printer<Integer> {
+    public void print(Integer data) {
+        System.out.println("Integer: " + data);
+    }
+}
+
+public class GenericInterfaceExample {
+    public static void main(String[] args) {
+
+        Printer<String> p1 = new StringPrinter();
+        Printer<Integer> p2 = new IntegerPrinter();
+
+        p1.print("Hello Java");
+        p2.print(100);
+    }
+}
