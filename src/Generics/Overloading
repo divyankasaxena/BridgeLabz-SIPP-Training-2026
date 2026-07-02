@@ -1,0 +1,13 @@
+public class Demo {
+
+    public static <T> void print(T value) {
+        System.out.println(value);
+    }
+
+    public static void main(String[] args) {
+        print(10);
+        print("Java");
+        print(99.5);
+        print(true);
+    }
+}
