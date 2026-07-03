@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,14 +128,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
