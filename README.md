@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0135-candy) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+| [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
