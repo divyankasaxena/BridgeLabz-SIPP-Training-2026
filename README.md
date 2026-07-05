@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+| [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
 |  |
