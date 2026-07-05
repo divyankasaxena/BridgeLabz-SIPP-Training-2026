@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
