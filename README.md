@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0492-construct-the-rectangle](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0406-queue-reconstruction-by-height) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
