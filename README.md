@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0135-candy) |
+| [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0406-queue-reconstruction-by-height) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
+| [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0492-construct-the-rectangle](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Tree
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
