@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0135-candy) |
+| [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Randomized
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
 ## Hash Function
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
 ## Simulation
