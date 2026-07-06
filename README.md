@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
@@ -203,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+| [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
 ## Binary Indexed Tree
 |  |
 | ------- |
