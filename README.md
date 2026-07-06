@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
+| [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0492-construct-the-rectangle) |
+| [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Depth-First Search
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Randomized
 |  |
