@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1179-reformat-department-table) |
 | [1667-fix-names-in-a-table](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1757-recyclable-and-low-fat-products) |
