@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
 | [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0492-construct-the-rectangle) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Depth-First Search
