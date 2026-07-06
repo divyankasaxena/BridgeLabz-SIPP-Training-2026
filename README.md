@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0547-number-of-provinces](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
