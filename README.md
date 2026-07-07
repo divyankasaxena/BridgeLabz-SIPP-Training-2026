@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0584-find-customer-referee) |
