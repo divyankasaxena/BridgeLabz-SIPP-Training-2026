@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1683-invalid-tweets) |
