@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
