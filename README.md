@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
+| [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
