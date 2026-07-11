@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0119-pascals-triangle-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 ## Hash Table
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
 | [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
