@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 ## Tree
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
 ## Design
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
