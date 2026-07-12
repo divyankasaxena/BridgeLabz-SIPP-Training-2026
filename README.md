@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
 | [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
 ## Depth-First Search
 |  |
 | ------- |
