@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
+| [0476-number-complement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0476-number-complement) |
 ## Memoization
 |  |
 | ------- |
