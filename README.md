@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0566-reshape-the-matrix](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
@@ -252,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0566-reshape-the-matrix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
