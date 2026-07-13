@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0165-compare-version-numbers) |
+| [0475-heaters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0475-heaters) |
 | [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
 | [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0475-heaters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0498-diagonal-traverse) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0475-heaters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
