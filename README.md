@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0500-keyboard-row) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0547-number-of-provinces) |
 ## Union-Find
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
 | [0427-construct-quad-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0427-construct-quad-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0101-symmetric-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
@@ -234,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0304-range-sum-query-2d-immutable) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
+| [0449-serialize-and-deserialize-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
