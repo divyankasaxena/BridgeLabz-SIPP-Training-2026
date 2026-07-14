@@ -1,0 +1,49 @@
+import java.util.Arrays;
+
+public class MatrixReshape {
+
+    public static int[][] matrixReshape(int[][] mat, int r, int c) {
+        int rows = mat.length;
+        int cols = mat[0].length;
+
+        if (rows * cols != r * c) {
+            return mat;
+        }
+
+        int[][] result = new int[r][c];
+        int newRow = 0;
+        int newCol = 0;
+
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                result[newRow][newCol] = mat[i][j];
+                newCol++;
+
+                if (newCol == c) {
+                    newCol = 0;
+                    newRow++;
+                }
+            }
+        }
+
+        return result;
+    }
+
+    public static void printMatrix(int[][] matrix) {
+        for (int[] row : matrix) {
+            System.out.println(Arrays.toString(row));
+        }
+    }
+
+    public static void main(String[] args) {
+        int[][] matrix = {
+                {1, 2},
+                {3, 4}
+        };
+
+        int[][] reshaped = matrixReshape(matrix, 1, 4);
+
+        System.out.println("Reshaped Matrix:");
+        printMatrix(reshaped);
+    }
+}
