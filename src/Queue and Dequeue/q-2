@@ -1,0 +1,75 @@
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+public class PrintQueue {
+
+    private Deque<Integer> printQueue;
+
+    // Constructor
+    public PrintQueue() {
+        printQueue = new ArrayDeque<>();
+    }
+
+    // Add a normal job at the back
+    public void submitJob(int jobId) {
+        printQueue.addLast(jobId);
+    }
+
+    // Add an urgent job at the front
+    public void submitUrgentJob(int jobId) {
+        printQueue.addFirst(jobId);
+    }
+
+    // Remove the next job for printing
+    public int printNextJob() {
+        if (printQueue.isEmpty()) {
+            throw new RuntimeException("No print jobs available");
+        }
+        return printQueue.removeFirst();
+    }
+
+    // View the next job
+    public int peekNextJob() {
+        if (printQueue.isEmpty()) {
+            throw new RuntimeException("No print jobs available");
+        }
+        return printQueue.peekFirst();
+    }
+
+    // Check if queue is empty
+    public boolean isEmpty() {
+        return printQueue.isEmpty();
+    }
+
+    // Display all jobs
+    public void display() {
+        if (printQueue.isEmpty()) {
+            System.out.println("Print Queue is Empty");
+        } else {
+            System.out.println("Print Queue: " + printQueue);
+        }
+    }
+
+    // Main Method
+    public static void main(String[] args) {
+
+        PrintQueue queue = new PrintQueue();
+
+        // Normal jobs
+        queue.submitJob(101);
+        queue.submitJob(102);
+        queue.submitJob(103);
+
+        queue.display();
+
+        // Urgent job
+        queue.submitUrgentJob(999);
+
+        queue.display();
+
+        // Print next job
+        System.out.println("Printing Job: " + queue.printNextJob());
+
+        queue.display();
+    }
+}
