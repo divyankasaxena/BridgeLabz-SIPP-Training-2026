@@ -1,0 +1,80 @@
+class CallStack {
+
+    // Node class
+    private static class Frame {
+        String functionName;
+        Frame next;
+
+        Frame(String functionName) {
+            this.functionName = functionName;
+            this.next = null;
+        }
+    }
+
+    private Frame top;
+
+    // Constructor
+    public CallStack() {
+        top = null;
+    }
+
+    // Push a function call
+    public void push(String functionName) {
+        Frame newFrame = new Frame(functionName);
+        newFrame.next = top;
+        top = newFrame;
+    }
+
+    // Pop a function call
+    public String pop() {
+        if (isEmpty()) {
+            throw new RuntimeException("No active call to return from");
+        }
+        String name = top.functionName;
+        top = top.next;
+        return name;
+    }
+
+    // Peek current function
+    public String peek() {
+        if (isEmpty()) {
+            throw new RuntimeException("Call stack is empty");
+        }
+        return top.functionName;
+    }
+
+    // Check if stack is empty
+    public boolean isEmpty() {
+        return top == null;
+    }
+
+    // Display call stack
+    public void display() {
+        if (isEmpty()) {
+            System.out.println("Call stack is empty");
+            return;
+        }
+
+        System.out.println("Current Call Stack:");
+        Frame temp = top;
+        while (temp != null) {
+            System.out.println(temp.functionName);
+            temp = temp.next;
+        }
+    }
+
+    // Main method
+    public static void main(String[] args) {
+        CallStack stack = new CallStack();
+
+        stack.push("main()");
+        stack.push("login()");
+        stack.push("validateUser()");
+
+        System.out.println("Current Function: " + stack.peek());
+
+        System.out.println("Returned From: " + stack.pop());
+
+        stack.display();
+    }
+}
