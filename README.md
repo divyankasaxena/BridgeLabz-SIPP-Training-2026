@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0547-number-of-provinces) |
+| [0669-trim-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
