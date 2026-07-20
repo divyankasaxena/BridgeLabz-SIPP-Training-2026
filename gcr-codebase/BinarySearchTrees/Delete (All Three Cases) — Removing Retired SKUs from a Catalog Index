@@ -1,0 +1,88 @@
+class Node {
+    int val;
+    Node left, right;
+
+    Node(int val) {
+        this.val = val;
+        left = right = null;
+    }
+}
+
+public class BSTDelete {
+
+    // Delete a node from BST
+    public static Node delete(Node node, int sku) {
+
+        if (node == null)
+            return null;
+
+        // Search in left subtree
+        if (sku < node.val) {
+            node.left = delete(node.left, sku);
+        }
+
+        // Search in right subtree
+        else if (sku > node.val) {
+            node.right = delete(node.right, sku);
+        }
+
+        // Node found
+        else {
+
+            // Case 1: No child (Leaf)
+            if (node.left == null && node.right == null)
+                return null;
+
+            // Case 2: One child
+            if (node.left == null)
+                return node.right;
+
+            if (node.right == null)
+                return node.left;
+
+            // Case 3: Two children
+            Node successor = node.right;
+
+            // Find inorder successor (smallest in right subtree)
+            while (successor.left != null) {
+                successor = successor.left;
+            }
+
+            // Replace current node's value
+            node.val = successor.val;
+
+            // Delete successor node
+            node.right = delete(node.right, successor.val);
+        }
+
+        return node;
+    }
+
+    // Inorder Traversal
+    public static void inorder(Node root) {
+        if (root != null) {
+            inorder(root.left);
+            System.out.print(root.val + " ");
+            inorder(root.right);
+        }
+    }
+
+    public static void main(String[] args) {
+
+        // Creating BST
+        Node root = new Node(50);
+        root.left = new Node(30);
+        root.right = new Node(70);
+        root.left.left = new Node(20);
+        root.left.right = new Node(40);
+        root.right.left = new Node(60);
+        root.right.right = new Node(80);
+
+        int sku = 70;
+
+        root = delete(root, sku);
+
+        System.out.println("Inorder Traversal after Deletion:");
+        inorder(root);
+    }
+}
