@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0165-compare-version-numbers) |
 | [0475-heaters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0475-heaters) |
 | [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
