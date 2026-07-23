@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0554-brick-wall) |
 | [0566-reshape-the-matrix](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
+| [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Depth-First Search
