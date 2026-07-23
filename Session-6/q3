@@ -1,0 +1,9 @@
+EXPLAIN
+SELECT c.country,
+       c.date,
+       v.vaccinated
+FROM covid_cases c
+JOIN vaccine_data v
+ON c.country = v.country
+AND c.date = v.date
+WHERE c.country = 'India';
