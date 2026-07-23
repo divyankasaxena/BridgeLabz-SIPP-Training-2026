@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1051-height-checker) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0476-number-complement) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Depth-First Search
 |  |
 | ------- |
