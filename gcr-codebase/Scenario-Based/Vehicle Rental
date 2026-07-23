@@ -1,0 +1,36 @@
+Vehicle Rental System
+Problem Statement
+Design a Vehicle Rental System that focuses only on Encapsulation and
+Abstraction.
+Requirements
+1. Create an abstract class Vehicle:
+○ Private fields:
+■ vehicleNumber
+■ vehicleType
+○ Provide appropriate getter and setter methods.
+
+2.Create a subclass Car:
+● Private field:
+○ dailyRate
+● Implement calculateRentalCost(int days) to calculate:
+days * dailyRate
+3. Create a subclass Bike:
+● Private field:
+○ dailyRate
+● Implement calculateRentalCost(int days) to calculate:
+days * dailyRate
+4. Create a subclass Truck:
+● Private fields:
+○ dailyRate
+○ loadingCharge
+● Implement calculateRentalCost(int days) as:
+(days * dailyRate) + loadingCharge
+5. All fields must be private and accessible only through getter and
+setter methods.
+6. In the main() method:
+
+● Create one Car object.
+● Create one Bike object.
+● Create one Truck object.
+● Display vehicle details and rental cost for a given number
+of days.

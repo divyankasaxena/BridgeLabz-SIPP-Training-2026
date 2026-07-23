@@ -1,0 +1,92 @@
+class LibraryMember {
+
+    String memberName;
+    String memberId;
+
+    LibraryMember(String memberName, String memberId) {
+        this.memberName = memberName;
+        this.memberId = memberId;
+    }
+
+    double calculateFine(int overdueDays) {
+        return 0;
+    }
+
+    void printDetails() {
+        System.out.println("Name : " + memberName);
+        System.out.println("ID   : " + memberId);
+    }
+}
+
+class StudentMember extends LibraryMember {
+
+    StudentMember(String memberName, String memberId) {
+        super(memberName, memberId);
+    }
+
+    double calculateFine(int overdueDays) {
+        return overdueDays * 2;
+    }
+}
+
+class FacultyMember extends LibraryMember {
+
+    FacultyMember(String memberName, String memberId) {
+        super(memberName, memberId);
+    }
+
+    double calculateFine(int overdueDays) {
+        return overdueDays * 1;
+    }
+}
+
+class GuestMember extends LibraryMember {
+
+    GuestMember(String memberName, String memberId) {
+        super(memberName, memberId);
+    }
+
+    double calculateFine(int overdueDays) {
+        return overdueDays * 5;
+    }
+}
+
+public class Main {
+
+    static void findMember(LibraryMember[] members, String id) {
+
+        boolean found = false;
+
+        for (LibraryMember m : members) {
+            if (m.memberId.equals(id)) {
+                System.out.println("\nMember Found");
+                m.printDetails();
+                found = true;
+                break;
+            }
+        }
+
+        if (!found) {
+            System.out.println("\nMember Not Found");
+        }
+    }
+
+    public static void main(String[] args) {
+
+        LibraryMember[] members = {
+                new StudentMember("Rahul", "S101"),
+                new FacultyMember("Priya", "F201"),
+                new GuestMember("Aman", "G301")
+        };
+
+        int overdueDays = 4;
+
+        for (LibraryMember m : members) {
+            m.printDetails();
+            System.out.println("Fine : Rs. " + m.calculateFine(overdueDays));
+            System.out.println();
+        }
+
+        findMember(members, "F201");
+    }
+}

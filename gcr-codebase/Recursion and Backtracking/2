@@ -1,0 +1,27 @@
+import java.util.*;
+
+public class Solution {
+
+    public List<List<Integer>> makeChange(int[] coins, int target) {
+        Arrays.sort(coins);
+        List<List<Integer>> ans = new ArrayList<>();
+        dfs(coins, target, 0, new ArrayList<>(), ans);
+        return ans;
+    }
+
+    private void dfs(int[] coins, int target, int start, List<Integer> cur, List<List<Integer>> ans) {
+        if (target == 0) {
+            ans.add(new ArrayList<>(cur));
+            return;
+        }
+
+        for (int i = start; i < coins.length; i++) {
+            if (coins[i] > target)
+                break;
+
+            cur.add(coins[i]);
+            dfs(coins, target - coins[i], i, cur, ans);
+            cur.remove(cur.size() - 1);
+        }
+    }
+}

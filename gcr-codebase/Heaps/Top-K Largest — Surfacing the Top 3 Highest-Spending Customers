@@ -1,0 +1,37 @@
+import java.util.*;
+
+public class TopKLargest {
+
+    // Function to find the k largest elements
+    public static List<Integer> topKLargest(int[] transactions, int k) {
+
+        // Min Heap of size k
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+
+        for (int amount : transactions) {
+
+            // Fill the heap until it contains k elements
+            if (minHeap.size() < k) {
+                minHeap.offer(amount);
+            }
+
+            // If current amount is larger than the smallest in the heap
+            else if (amount > minHeap.peek()) {
+                minHeap.poll();
+                minHeap.offer(amount);
+            }
+        }
+
+        return new ArrayList<>(minHeap);
+    }
+
+    public static void main(String[] args) {
+
+        int[] transactions = {1200, 5000, 3000, 7000, 2500, 9000, 6500};
+        int k = 3;
+
+        List<Integer> result = topKLargest(transactions, k);
+
+        System.out.println("Top " + k + " Largest Values: " + result);
+    }
+}

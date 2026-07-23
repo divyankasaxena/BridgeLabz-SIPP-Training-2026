@@ -1,0 +1,62 @@
+class Node {
+    int val;
+    Node left, right;
+
+    Node(int val) {
+        this.val = val;
+        left = right = null;
+    }
+}
+
+public class BSTInsert {
+
+    // Insert a new node into the BST
+    public static Node insert(Node node, int id) {
+
+        // If tree is empty or correct position found
+        if (node == null) {
+            return new Node(id);
+        }
+
+        // Insert into left subtree
+        if (id < node.val) {
+            node.left = insert(node.left, id);
+        }
+
+        // Insert into right subtree
+        else if (id > node.val) {
+            node.right = insert(node.right, id);
+        }
+
+        // If value already exists, do nothing
+        return node;
+    }
+
+    // Inorder Traversal (to verify BST)
+    public static void inorder(Node root) {
+        if (root != null) {
+            inorder(root.left);
+            System.out.print(root.val + " ");
+            inorder(root.right);
+        }
+    }
+
+    public static void main(String[] args) {
+
+        // Creating BST
+        Node root = new Node(50);
+        root.left = new Node(30);
+        root.right = new Node(70);
+        root.left.left = new Node(20);
+        root.left.right = new Node(40);
+        root.right.left = new Node(60);
+        root.right.right = new Node(80);
+
+        int newID = 65;
+
+        root = insert(root, newID);
+
+        System.out.println("Inorder Traversal after Insertion:");
+        inorder(root);
+    }
+}

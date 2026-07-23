@@ -1,0 +1,38 @@
+import java.util.PriorityQueue;
+
+public class KthLargest {
+
+    // Function to find the kth largest element
+    public static int findKthLargest(int[] scores, int k) {
+
+        // Min Heap of size k
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+
+        for (int score : scores) {
+
+            // Fill heap until it contains k elements
+            if (minHeap.size() < k) {
+                minHeap.offer(score);
+            }
+
+            // Replace the smallest element if current score is larger
+            else if (score > minHeap.peek()) {
+                minHeap.poll();
+                minHeap.offer(score);
+            }
+        }
+
+        // Root of the heap is the kth largest element
+        return minHeap.peek();
+    }
+
+    public static void main(String[] args) {
+
+        int[] scores = {85, 92, 78, 96, 88, 91, 75};
+        int k = 3;
+
+        int result = findKthLargest(scores, k);
+
+        System.out.println("The " + k + "rd largest score is: " + result);
+    }
+}

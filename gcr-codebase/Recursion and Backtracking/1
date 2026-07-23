@@ -1,0 +1,23 @@
+import java.util.*;
+
+public class Solution {
+
+    public List<List<String>> generateFlagCombinations(String[] flags) {
+        List<List<String>> ans = new ArrayList<>();
+        dfs(flags, 0, new ArrayList<>(), ans);
+        return ans;
+    }
+
+    private void dfs(String[] flags, int idx, List<String> cur, List<List<String>> ans) {
+        if (idx == flags.length) {
+            ans.add(new ArrayList<>(cur));
+            return;
+        }
+
+        cur.add(flags[idx]);
+        dfs(flags, idx + 1, cur, ans);
+        cur.remove(cur.size() - 1);
+
+        dfs(flags, idx + 1, cur, ans);
+    }
+}
