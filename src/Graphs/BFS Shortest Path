@@ -1,0 +1,44 @@
+import java.util.*;
+
+public class Solution {
+
+    public List<Integer> fewestFlights(Map<Integer, List<Integer>> routes, int origin, int destination) {
+        Queue<Integer> q = new LinkedList<>();
+        Map<Integer, Integer> parent = new HashMap<>();
+        Set<Integer> vis = new HashSet<>();
+
+        q.offer(origin);
+        vis.add(origin);
+        parent.put(origin, -1);
+
+        while (!q.isEmpty()) {
+            int cur = q.poll();
+
+            if (cur == destination)
+                break;
+
+            for (int next : routes.getOrDefault(cur, new ArrayList<>())) {
+                if (!vis.contains(next)) {
+                    vis.add(next);
+                    parent.put(next, cur);
+                    q.offer(next);
+                }
+            }
+        }
+
+        List<Integer> path = new ArrayList<>();
+
+        if (!parent.containsKey(destination))
+            return path;
+
+        int cur = destination;
+
+        while (cur != -1) {
+            path.add(cur);
+            cur = parent.get(cur);
+        }
+
+        Collections.reverse(path);
+        return path;
+    }
+}
