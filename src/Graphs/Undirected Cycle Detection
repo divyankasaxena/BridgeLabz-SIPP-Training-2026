@@ -1,0 +1,32 @@
+import java.util.*;
+
+public class Solution {
+
+    public boolean hasWiringLoop(Map<Integer, List<Integer>> circuit, int n) {
+        Set<Integer> vis = new HashSet<>();
+
+        for (int i = 0; i < n; i++) {
+            if (!vis.contains(i)) {
+                if (dfs(circuit, i, -1, vis))
+                    return true;
+            }
+        }
+
+        return false;
+    }
+
+    private boolean dfs(Map<Integer, List<Integer>> circuit, int node, int parent, Set<Integer> vis) {
+        vis.add(node);
+
+        for (int next : circuit.getOrDefault(node, new ArrayList<>())) {
+            if (!vis.contains(next)) {
+                if (dfs(circuit, next, node, vis))
+                    return true;
+            } else if (next != parent) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
