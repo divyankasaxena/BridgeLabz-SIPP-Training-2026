@@ -1,0 +1,24 @@
+class Repository<T> {
+
+    public void save(T item) {
+        System.out.println("Saved: " + item);
+    }
+}
+
+class StudentService {
+
+    private Repository<String> repository = new Repository<>();
+
+    public void addStudent(String name) {
+        repository.save(name);
+    }
+}
+
+public class CompositionExample {
+
+    public static void main(String[] args) {
+
+        StudentService service = new StudentService();
+        service.addStudent("Divyanka");
+    }
+}

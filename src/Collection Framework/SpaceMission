@@ -1,0 +1,80 @@
+import java.util.*;
+
+class Astronaut {
+
+    String astronautId;
+    String name;
+    String specialization;
+
+    Astronaut(String astronautId, String name, String specialization) {
+        this.astronautId = astronautId;
+        this.name = name;
+        this.specialization = specialization;
+    }
+}
+
+public class SpaceMissionCrewManagementSystem {
+
+    HashMap<String, List<Astronaut>> missions = new HashMap<>();
+    HashMap<String, HashSet<String>> assigned = new HashMap<>();
+
+    // Add Mission
+    void addMission(String mission) {
+        missions.put(mission, new ArrayList<Astronaut>());
+        assigned.put(mission, new HashSet<String>());
+        System.out.println(mission + " Mission Added.");
+    }
+
+    // Assign Astronaut
+    void assignAstronaut(String mission, Astronaut a) {
+
+        if (assigned.get(mission).contains(a.astronautId)) {
+            System.out.println("Duplicate Assignment Not Allowed.");
+        } else {
+            missions.get(mission).add(a);
+            assigned.get(mission).add(a.astronautId);
+            System.out.println(a.name + " Assigned to " + mission);
+        }
+    }
+
+    // Display Missions
+    void displayMissions() {
+
+        System.out.println("\nMission Details:");
+
+        for (String mission : missions.keySet()) {
+
+            System.out.println("\nMission: " + mission);
+
+            List<Astronaut> crew = missions.get(mission);
+
+            for (Astronaut a : crew) {
+                System.out.println(a.astronautId + "  " + a.name + "  " + a.specialization);
+            }
+
+            System.out.println("Total Astronauts = " + crew.size());
+        }
+    }
+
+    public static void main(String[] args) {
+
+        SpaceMissionCrewManagementSystem s = new SpaceMissionCrewManagementSystem();
+
+        s.addMission("Moon Mission");
+        s.addMission("Mars Mission");
+
+        Astronaut a1 = new Astronaut("A101", "Rahul", "Pilot");
+        Astronaut a2 = new Astronaut("A102", "Aman", "Scientist");
+        Astronaut a3 = new Astronaut("A103", "Priya", "Engineer");
+
+        s.assignAstronaut("Moon Mission", a1);
+        s.assignAstronaut("Moon Mission", a2);
+        s.assignAstronaut("Mars Mission", a2);
+        s.assignAstronaut("Mars Mission", a3);
+
+        // Duplicate Assignment
+        s.assignAstronaut("Moon Mission", a1);
+
+        s.displayMissions();
+    }
+}

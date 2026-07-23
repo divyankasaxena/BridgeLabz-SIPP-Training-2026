@@ -1,0 +1,28 @@
+class Demo<T> {
+
+    private Class<T> type;
+
+    public Demo(Class<T> type) {
+        this.type = type;
+    }
+
+    public void check(Object obj) {
+
+        if (type.isInstance(obj)) {
+            System.out.println("Object is of type " + type.getSimpleName());
+        } else {
+            System.out.println("Invalid Type");
+        }
+    }
+}
+
+public class TypeErasureExample {
+
+    public static void main(String[] args) {
+
+        Demo<String> demo = new Demo<>(String.class);
+
+        demo.check("Java");
+        demo.check(100);
+    }
+}

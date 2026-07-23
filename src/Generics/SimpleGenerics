@@ -1,0 +1,11 @@
+import java.util.*;
+
+public class SimpleExample {
+
+    List<String> names = new ArrayList<>();
+    Map<Integer, String> students = new HashMap<>();
+
+    public static void main(String[] args) {
+        System.out.println("Simple generic declarations");
+    }
+}
