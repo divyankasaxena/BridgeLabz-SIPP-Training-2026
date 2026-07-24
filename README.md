@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0399-evaluate-division) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0313-super-ugly-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0416-partition-equal-subset-sum) |
