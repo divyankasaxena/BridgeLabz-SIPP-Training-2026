@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0565-array-nesting) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
