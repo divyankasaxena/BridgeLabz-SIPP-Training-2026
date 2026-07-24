@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0554-brick-wall) |
+| [0565-array-nesting](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0566-reshape-the-matrix) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0565-array-nesting) |
 | [0669-trim-a-binary-search-tree](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
