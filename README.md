@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1051-height-checker) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0476-number-complement) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
