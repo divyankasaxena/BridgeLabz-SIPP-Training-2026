@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0665-non-decreasing-array) |
 | [0697-degree-of-an-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0697-degree-of-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
 | [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0476-number-complement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -365,8 +369,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Enumeration
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
