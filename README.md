@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0738-monotone-increasing-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0528-random-pick-with-weight) |
 | [0553-optimal-division](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0598-range-addition-ii) |
+| [0738-monotone-increasing-digits](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0738-monotone-increasing-digits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
