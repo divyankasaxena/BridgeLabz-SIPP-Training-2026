@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
 | [1051-height-checker](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1051-height-checker) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
