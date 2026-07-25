@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0119-pascals-triangle-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0396-rotate-function) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0012-integer-to-roman) |
 | [0313-super-ugly-number](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
