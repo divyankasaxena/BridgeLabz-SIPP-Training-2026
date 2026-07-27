@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0709-to-lower-case) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bitmask
 |  |
