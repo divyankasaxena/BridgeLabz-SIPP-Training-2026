@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0709-to-lower-case) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0738-monotone-increasing-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -411,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/0729-my-calendar-i) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyankasaxena/BridgeLabz-SIPP-Training-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
