@@ -1,0 +1,9 @@
+START TRANSACTION;
+
+INSERT INTO vaccine_data(country, date, vaccinated)
+VALUES ('India', '2024-01-01', 50000);
+
+INSERT INTO vaccine_distribution(country, date, doses)
+VALUES ('India', '2024-01-01', 50000);
+
+COMMIT;
